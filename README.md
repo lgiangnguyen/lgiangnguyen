@@ -7,12 +7,8 @@ cs + math @ drexel
 ### 🫧 about me
 
 i'm studying cs + math at drexel and i want to build things at the intersection
-of machine learning and real products — whether that's as an ml engineer,
+of machine learning and real products - whether that's as an ml engineer,
 ai engineer, or ai pm (the dream is flexible, the passion is not).
-
-i care a lot about how AI systems actually work under the hood —
-large language models, how to make them useful with RAG, and how
-you go from "cool model" to "thing people use every day."
 
 ---
 
@@ -35,7 +31,7 @@ you go from "cool model" to "thing people use every day."
 
 - chronically online (feature, not bug)
 - will not shut up about llms
-- viet girl from philly 🔔
+- viet girl studying in philly 🔔
 - cs + math because i enjoy suffering, apparently
 
 ---
